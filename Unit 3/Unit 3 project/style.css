@@ -1,0 +1,56 @@
+body{
+     background-color:rgb(255, 166, 0)
+}
+h1{
+    color:rgb(192, 24, 24)
+}
+p{
+    color:red
+}
+img{
+    width:300px
+    
+}
+h4{
+    color:seagreen
+}
+h5{
+    color:white
+}
+#graph1:hover{
+    height: 400px; width: 400px;
+}
+#graph2:hover{
+    width: 500px;
+    transition:
+    width 2s,
+    height 2s;
+}
+#graph3:hover{
+    width: 500px;
+    transition:
+    width 5s,
+    height 5s;
+}
+#graph4:hover{
+    width: 600px;
+    transition:
+    width 3s,
+    height 3s;
+}
+#graph5:hover{
+    width: 200px;
+    transition:
+    width 7s,
+    height 7s;
+}
+#graph6:hover{
+    width: 700px;
+    transition:
+    width 8s,
+    height 8s;
+}
+h3{
+    color: darkmagenta
+}
+
