@@ -14,3 +14,16 @@ body{
 h1{
     color:orange
 }
+.Purple:hover{
+    width: 400px;
+    transition:
+    width 2s,
+    height 2s;
+}
+.Orange:hover{
+    width: 300px;
+    transition:
+    width 5s,
+    height 5s;
+}
+    
