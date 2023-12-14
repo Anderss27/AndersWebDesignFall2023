@@ -21,9 +21,18 @@ h1{
     height 2s;
 }
 .Orange:hover{
-    width: 300px;
+    width: 400px;
     transition:
     width 5s,
     height 5s;
 }
+h4:hover{
+    width: 600px;
+    transition:
+    width 3s,
+    heigh 3s;
+
+}
+
+
     
